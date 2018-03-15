@@ -1,0 +1,78 @@
+/****************************************************************************
+* COSC2138/CPT 220 - Programming Principles 2A
+* Study Period 2  2015 Assignment #1 - hangman and minesweeper programs
+* Full Name        : Timothy David Boye
+* Student Number   : s3482043
+* Course Code      : CPT220
+* Start up code provided by the CTeach Team
+****************************************************************************/
+
+-----------------------------------------------------------------------------
+If selected, do you grant permission for your assignment to be released as an
+anonymous student sample solution?
+-----------------------------------------------------------------------------
+
+Yes
+
+-----------------------------------------------------------------------------
+hangman - Documentation of my implemented requirements:
+-----------------------------------------------------------------------------
+
+Implementation - init()              : Yes
+Implementation- displayWord()   	 	: Yes
+Implementation- guessLetter() 		: Yes
+Implementation- displayHangman()		: Yes
+Implementation- isGameOver()        	: Yes
+
+
+
+-----------------------------------------------------------------------------
+minesweeper - Documentation of my implemented requirements:
+-----------------------------------------------------------------------------
+
+Implementation- init()                 :Yes
+Implementation- getSize()		       :Yes
+Implementation- placeMines() 		  :Yes
+Implementation- displayMinefield()     : Yes
+Implementation- guessType()            : Yes
+Implementation- guessSquare()          : Yes
+Implementation- processGuess()         : Yes
+
+
+
+
+
+-----------------------------------------------------------------------------
+Known bugs:
+-----------------------------------------------------------------------------
+
+None
+
+-----------------------------------------------------------------------------
+Assumptions:
+-----------------------------------------------------------------------------
+
+None
+
+-----------------------------------------------------------------------------
+Any other notes for the marker:
+-----------------------------------------------------------------------------
+
+Built on Mac OSX 10.10.4, and 
+gcc --version
+Configured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
+Apple LLVM version 6.1.0 (clang-602.0.53) (based on LLVM 3.6.0svn)
+Target: x86_64-apple-darwin14.4.0
+Thread model: posix
+
+Tested on the core teaching servers
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
